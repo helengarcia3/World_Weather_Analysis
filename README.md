@@ -6,6 +6,9 @@ PlanMyTrip app is changing the way we travel by combining things like weather, d
 ##Deliverable 1
 Generate a set of 2,000 random latitudes and longitudes, retrieve the nearest city, and perform an API call with the OpenWeatherMap.
 
+![Screen Shot 2022-07-27 at 11 40 11 PM](https://user-images.githubusercontent.com/107590196/181415509-472ec20c-51b9-4126-92fa-89f9a5410654.png)
+
+
 ##Deliverable 2
 Create a Customer Travel Destinations Map by retreiving customer weather preferences, then use those preferences to identify potential travel destinations and nearby hotels. Show those destinations on a marker layer map with pop-up markers.
 
